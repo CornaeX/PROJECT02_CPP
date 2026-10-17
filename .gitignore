@@ -1,6 +1,4 @@
-build/
-build-*/
-campus-tour
-campus-tests
-*.exe
-*.zip
+node_modules/
+dist/
+.env
+.DS_Store

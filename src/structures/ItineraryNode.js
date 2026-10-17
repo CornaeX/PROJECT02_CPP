@@ -1,0 +1,1 @@
+export class ItineraryNode {constructor(locationId){this.locationId=locationId;this.next=null}}

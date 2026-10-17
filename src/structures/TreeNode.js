@@ -1,0 +1,1 @@
+export class TreeNode { constructor({type,name,id=null,place=null}) { this.type=type;this.name=name;this.id=id;this.place=place;this.children=[];this.parent=null; } addChild(node){node.parent=this;this.children.push(node);return node;} }

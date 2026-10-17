@@ -1,0 +1,134 @@
+[
+  {
+    "id": "NU-HEALTH-001",
+    "name": "Naresuan University Hospital",
+    "category": "Healthcare",
+    "zone": "Medical Campus",
+    "lat": 16.74855,
+    "lng": 100.18936,
+    "description": "Teaching hospital located on the Naresuan University campus.",
+    "sourceUrl": "https://mapcarta.com/N6384784351",
+    "verificationStatus": "VERIFIED_OSM_DERIVED"
+  },
+  {
+    "id": "NU-MED-001",
+    "name": "Faculty of Medicine, Naresuan University",
+    "category": "Medical Education",
+    "zone": "Medical Campus",
+    "lat": 16.74752,
+    "lng": 100.18855,
+    "description": "Medical school building at Naresuan University.",
+    "sourceUrl": "https://mapcarta.com/W665609208",
+    "verificationStatus": "VERIFIED_OSM_DERIVED"
+  },
+  {
+    "id": "NU-SPORT-001",
+    "name": "Indoor Sports Building",
+    "category": "Sports and Recreation",
+    "zone": "Sports Campus",
+    "lat": 16.74711,
+    "lng": 100.19735,
+    "description": "Indoor sports venue mapped on the campus.",
+    "sourceUrl": "https://mapcarta.com/W131380541",
+    "verificationStatus": "VERIFIED_OSM_DERIVED"
+  },
+  {
+    "id": "NU-SPORT-002",
+    "name": "Outdoor Athletics Track",
+    "category": "Sports and Recreation",
+    "zone": "Sports Campus",
+    "lat": 16.75119,
+    "lng": 100.19389,
+    "description": "Outdoor athletics track mapped at Naresuan University.",
+    "sourceUrl": "https://mapcarta.com/W131383775",
+    "verificationStatus": "VERIFIED_OSM_DERIVED"
+  },
+  {
+    "id": "NU-STUDENT-001",
+    "name": "Student Affairs Division",
+    "category": "Student Services",
+    "zone": "Central Campus",
+    "lat": 16.75101,
+    "lng": 100.19284,
+    "description": "Student-affairs office building mapped on campus.",
+    "sourceUrl": "https://mapcarta.com/W182692793",
+    "verificationStatus": "VERIFIED_OSM_DERIVED"
+  },
+  {
+    "id": "NU-SHOP-001",
+    "name": "NU and CU Book Center (ศูนย์หนังสือ NU และ CU)",
+    "category": "Retail and Dining",
+    "zone": "Central Campus",
+    "lat": 16.74518,
+    "lng": 100.19349,
+    "description": "Book-center/library point listed on OpenStreetMap-based campus mapping.",
+    "sourceUrl": "https://mapcarta.com/N7874928023",
+    "verificationStatus": "VERIFIED_OSM_DERIVED"
+  },
+  {
+    "id": "NU-SERVICE-001",
+    "name": "IT Station",
+    "category": "University Services",
+    "zone": "Central Campus",
+    "lat": 16.74693,
+    "lng": 100.19828,
+    "description": "Public-service building mapped on the university campus.",
+    "sourceUrl": "https://mapcarta.com/W178645624",
+    "verificationStatus": "VERIFIED_OSM_DERIVED"
+  },
+  {
+    "id": "NU-SERVICE-002",
+    "name": "Project Administration Office",
+    "category": "University Services",
+    "zone": "Central Campus",
+    "lat": 16.75168,
+    "lng": 100.19024,
+    "description": "University project-administration office building.",
+    "sourceUrl": "https://mapcarta.com/W180245070",
+    "verificationStatus": "VERIFIED_OSM_DERIVED"
+  },
+  {
+    "id": "NU-SERVICE-003",
+    "name": "Saengphrom Land Office",
+    "category": "University Services",
+    "zone": "Central Campus",
+    "lat": 16.7543,
+    "lng": 100.19419,
+    "description": "Office building named Saengphrom Land Office in OpenStreetMap-based mapping.",
+    "sourceUrl": "https://mapcarta.com/W180246894",
+    "verificationStatus": "VERIFIED_OSM_DERIVED"
+  },
+  {
+    "id": "NU-DINING-001",
+    "name": "Muang Thong Market Project",
+    "category": "Retail and Dining",
+    "zone": "Central Campus",
+    "lat": 16.75279,
+    "lng": 100.19224,
+    "description": "Building mapped as the Muang Thong Market Project on campus.",
+    "sourceUrl": "https://mapcarta.com/W180245067",
+    "verificationStatus": "VERIFIED_OSM_DERIVED"
+  },
+  {
+    "id": "NU-SERVICE-004",
+    "name": "Thep Therat Hall (หอพระเทพรัตน์)",
+    "category": "University Services",
+    "zone": "Medical Campus",
+    "lat": 16.74883,
+    "lng": 100.1908,
+    "description": "Campus building near the university hospital and Faculty of Medicine.",
+    "sourceUrl": "https://mapcarta.com/W1125088050",
+    "verificationStatus": "VERIFIED_OSM_DERIVED"
+  },
+  {
+    "id": "NU-BANK-001",
+    "name": "Krung Thai Bank, Naresuan University",
+    "category": "Retail and Dining",
+    "zone": "Central Campus",
+    "lat": 16.73743,
+    "lng": 100.19921,
+    "description": "Bank branch mapped as KTB Naresuan University.",
+    "sourceUrl": "https://mapcarta.com/N1908842082",
+    "verificationStatus": "VERIFIED_OSM_DERIVED"
+  }
+]
