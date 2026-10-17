@@ -1,0 +1,13 @@
+# id	name	category	zone	latitude	longitude	description	source_url	verification_status
+NU-HEALTH-001	Naresuan University Hospital	Healthcare	Medical Campus	16.74855	100.18936	Teaching hospital located on the Naresuan University campus.	https://mapcarta.com/N6384784351	VERIFIED_OSM_DERIVED
+NU-MED-001	Faculty of Medicine, Naresuan University	Medical Education	Medical Campus	16.74752	100.18855	Medical school building at Naresuan University.	https://mapcarta.com/W665609208	VERIFIED_OSM_DERIVED
+NU-SPORT-001	Indoor Sports Building	Sports and Recreation	Sports Campus	16.74711	100.19735	Indoor sports venue mapped on the campus.	https://mapcarta.com/W131380541	VERIFIED_OSM_DERIVED
+NU-SPORT-002	Outdoor Athletics Track	Sports and Recreation	Sports Campus	16.75119	100.19389	Outdoor athletics track mapped at Naresuan University.	https://mapcarta.com/W131383775	VERIFIED_OSM_DERIVED
+NU-STUDENT-001	Student Affairs Division	Student Services	Central Campus	16.75101	100.19284	Student-affairs office building mapped on campus.	https://mapcarta.com/W182692793	VERIFIED_OSM_DERIVED
+NU-SHOP-001	NU and CU Book Center (ศูนย์หนังสือ NU และ CU)	Retail and Dining	Central Campus	16.74518	100.19349	Book-center/library point listed on OpenStreetMap-based campus mapping.	https://mapcarta.com/N7874928023	VERIFIED_OSM_DERIVED
+NU-SERVICE-001	IT Station	University Services	Central Campus	16.74693	100.19828	Public-service building mapped on the university campus.	https://mapcarta.com/W178645624	VERIFIED_OSM_DERIVED
+NU-SERVICE-002	Project Administration Office	University Services	Central Campus	16.75168	100.19024	University project-administration office building.	https://mapcarta.com/W180245070	VERIFIED_OSM_DERIVED
+NU-SERVICE-003	Saengphrom Land Office	University Services	Central Campus	16.75430	100.19419	Office building named Saengphrom Land Office in OpenStreetMap-based mapping.	https://mapcarta.com/W180246894	VERIFIED_OSM_DERIVED
+NU-DINING-001	Muang Thong Market Project	Retail and Dining	Central Campus	16.75279	100.19224	Building mapped as the Muang Thong Market Project on campus.	https://mapcarta.com/W180245067	VERIFIED_OSM_DERIVED
+NU-SERVICE-004	Thep Therat Hall (หอพระเทพรัตน์)	University Services	Medical Campus	16.74883	100.19080	Campus building near the university hospital and Faculty of Medicine.	https://mapcarta.com/W1125088050	VERIFIED_OSM_DERIVED
+NU-BANK-001	Krung Thai Bank, Naresuan University	Retail and Dining	Central Campus	16.73743	100.19921	Bank branch mapped as KTB Naresuan University.	https://mapcarta.com/N1908842082	VERIFIED_OSM_DERIVED

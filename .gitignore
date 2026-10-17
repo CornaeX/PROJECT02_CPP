@@ -1,0 +1,5 @@
+build/
+build-*/
+campus-tour
+campus-tests
+*.exe
